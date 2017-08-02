@@ -1,7 +1,16 @@
+
 *{
   font-family: sans-serif;
 }
 
 h1{
-  color: #bbccff;
+  color: #33cccc;
+}
+
+p{
+  color: #aaaaaa;
+}
+
+a{
+  color: #aaaaaa;
 }
