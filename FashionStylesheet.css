@@ -1,6 +1,9 @@
 h1{
   color:#bbccff;
 }
+h6{
+text-decoration: underline;
+}
 .well{
   min-height:250px;
 
@@ -8,5 +11,13 @@ h1{
 .container{
   margin:0px;
   width:100%;
-  
+}
+.well {
+    background:#ccffff;
+}
+ul{
+  color:black;
+}
+a href{
+  text-align: center;
 }
