@@ -175,6 +175,7 @@ header .header-content .header-content-inner h1 {
 }
 header .header-content .header-content-inner hr {
   margin: 30px auto;
+  color: black;
 }
 header .header-content .header-content-inner p {
   font-weight: 300;
