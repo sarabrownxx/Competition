@@ -4,15 +4,16 @@
 }
 
 h1{
-  color: #33cccc;
+  color: #ff8533;
 }
 
 p{
-  color: #aaaaaa;
+  color: #cc5200;
 }
 
 a{
-  color: #aaaaaa;
+  color: #cc5200;
+  font-family: sans-serif;
 }
 
 h4{
